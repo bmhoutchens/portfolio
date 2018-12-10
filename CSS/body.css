@@ -1,0 +1,6 @@
+body{
+    background-image: linear-gradient(to bottom right, var(--purple), var(--orange));
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
