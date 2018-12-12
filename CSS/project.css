@@ -1,0 +1,27 @@
+#unstyledList{
+    list-style-type:none
+}
+
+.listImages{
+    height: 20vh;
+    margin-right: 3vw;
+    border: 1px solid black;
+    word-wrap: break-word;
+}
+
+.off-centerList{
+    margin-left: 12vw;
+    margin-right: 10vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    background-color: rgba(169, 169, 169, 0.144);
+    font-weight: bold;
+    border-radius: .20em;
+}
+
+.creature{
+    height: 25vh;
+    width: 18vw;
+}
