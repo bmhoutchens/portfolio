@@ -1,4 +1,5 @@
-#backstory{
+
+/* #backstory{
     margin-left: 10vw;
     margin-right: 10vw;
     padding-left: 5vw;
@@ -8,4 +9,34 @@
     background-color: rgba(169, 169, 169, 0.144);
     font-weight: bold;
     border-radius: .20em;
+} */
+
+.centered{
+    text-align: center;
+    margin-bottom: 1em;
 }
+
+.subTextFormat{
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    background-color: rgba(169, 169, 169, 0.144);
+    font-weight: bold;
+    border-radius: .20em;
+    line-height: 1.8;
+}
+
+.listLinks a{
+    text-decoration: none;
+    color: rgb(217, 237, 240);
+    cursor: default;
+}
+
+.listLinks a:hover{
+    text-decoration: none;
+    color: rgb(217, 237, 240);
+}
+

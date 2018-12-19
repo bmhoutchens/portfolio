@@ -1,0 +1,23 @@
+#footer{
+    margin-top: 3vh;
+    padding-bottom: .5vh;
+    align-content: left;
+    background-color: rgba(56, 54, 54, 0.849);
+    display: block;
+    padding-top: 2vh;
+}
+
+.fa-linkedin{
+    color: rgb(13, 121, 221);
+    font-size: 40px;
+    margin-right: 2vw;
+}
+
+footer div{
+    margin-left: 47.5vw;
+}
+
+.fa-github-square{
+    color:  lightgrey;
+    font-size: 40px;
+}

@@ -1,11 +1,26 @@
 .form-group{
-    margin-left: 34vw;
+    margin-left: 32.48vw;
 }
 
 .btn{
     margin-left: 34vw;
 }
 
-#message.form-control{
-   -left: 10vw;
+#message{
+    margin-right: 4vw;
+}
+
+#resume{
+    position: absolute;
+    margin: -18vh 0vw 0vh 27vw;
+    font-size: 25px;
+}
+
+.resumeIcon{
+    display: inline-block;
+    text-align: center;
+}
+
+#words{
+    color: rgb(217, 237, 240);
 }

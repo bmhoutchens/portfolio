@@ -1,8 +1,8 @@
 .jumbotron{
     background-image: url("../Assets/img/dark-hilly-horizon-36038.jpg");
-    background-size: cover;
     background-size: 100% 130%;
     color: white;
     text-align: center;
+    padding-top: 15vh;
     font-family: 'Righteous', cursive;
 }

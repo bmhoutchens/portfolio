@@ -1,5 +1,5 @@
-#unstyledList{
-    list-style-type:none
+.unstyledList{
+    list-style-type: none;
 }
 
 .listImages{
@@ -24,4 +24,24 @@
 .creature{
     height: 25vh;
     width: 18vw;
+}
+
+.listDescriptions{
+    position: relative;
+}
+
+#creatureDescription{
+    margin-top: -68vh;
+    margin-left: 25vw;
+}
+
+#firstWebsiteDescription{
+    margin-top: 26vh;
+    margin-left: 25vw;
+}
+
+#APIDescription{
+    margin-top: 20vh;
+    margin-left: 25vw;
+    margin-bottom: 10vh;
 }
