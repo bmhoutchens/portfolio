@@ -26,22 +26,23 @@
     width: 18vw;
 }
 
-.listDescriptions{
-    position: relative;
-}
-
-#creatureDescription{
-    margin-top: -68vh;
-    margin-left: 25vw;
-}
-
 #firstWebsiteDescription{
-    margin-top: 26vh;
-    margin-left: 25vw;
+    margin-top: 20vh;
 }
 
 #APIDescription{
-    margin-top: 20vh;
-    margin-left: 25vw;
-    margin-bottom: 10vh;
+    margin-top: 14vh;
+}
+
+#gsGardenAndTrees{
+    margin-top: 12vh;
+}
+
+#hotBevHub{
+    margin-top: 12vh;
+    margin-bottom: 15vh
+}
+
+img{
+    float: left;
 }

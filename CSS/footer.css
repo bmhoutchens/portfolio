@@ -20,4 +20,10 @@ footer div{
 .fa-github-square{
     color:  lightgrey;
     font-size: 40px;
+    margin-right: 2vw;
+}
+
+.fa-file{
+    font-size: 33px;
+    transform: translate(0, -.5vh);
 }
