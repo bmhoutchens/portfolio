@@ -7,6 +7,13 @@
     padding-top: 2vh;
 }
 
+#icons{
+    position: relative;
+    text-align: center;
+    right: 25%;
+    transform: translateX(10%);
+}
+
 .fa-linkedin{
     color: rgb(13, 121, 221);
     font-size: 40px;
